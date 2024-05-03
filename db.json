@@ -1,9 +1,137 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "ataudes": [
+    {
+      "id": "02a3",
+      "nombre": "Ataúd Lilia Penta",
+      "categoria": "Haymaker",
+      "precio": "5000",
+      "material": "Gusanitos",
+      "imagen": "./img/img-cards/cf1.png"
+    },
+    {
+      "id": "665a",
+      "nombre": "Ataúd Takeo Dempsey",
+      "categoria": "Haymaker",
+      "precio": "50003",
+      "material": "Gusanitos",
+      "imagen": "./img/img-cards/cf2.png"
+    },
+    {
+      "id": "aa14",
+      "nombre": "Ataúd Lilia Penta",
+      "categoria": "Haymaker",
+      "precio": "50003",
+      "material": "Gusanitos",
+      "imagen": "./img/img-cards/cf3.png"
+    },
+    {
+      "id": "8fc2",
+      "nombre": "Ataud Varus Row",
+      "categoria": "Beco",
+      "precio": "3200",
+      "material": "Madera fúngica roja",
+      "imagen": "https://static.wixstatic.com/media/46abe6_0344a05baca5420ea5e897e8744b4c01~mv2.png/v1/fill/w_480,h_242,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/46abe6_0344a05baca5420ea5e897e8744b4c01~mv2.png"
+    },
+    {
+      "id": "c060",
+      "nombre": "Ataud Tibbers Annie",
+      "categoria": "Brown Smallest",
+      "precio": "4500",
+      "material": "Abeto Marrón",
+      "imagen": "https://symbl.cc/i/webp/fa/163397a9de812c0feae58b902cd6ef.webp"
+    },
+    {
+      "id": "68e1",
+      "nombre": "Ataud Lulu M8",
+      "categoria": "Haymaker",
+      "precio": "2450",
+      "material": "Plastico refinado",
+      "imagen": "https://static.vecteezy.com/system/resources/previews/011/026/907/original/3d-coffin-icon-halloween-illustration-png.png"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "login": [
+    {
+      "username": "fran@gmail.com",
+      "password": "hola123",
+      "id": "488c"
+    },
+    {
+      "id": "8032",
+      "username": "maria@gmail.com",
+      "password": "hola123"
+    },
+    {
+      "id": "47b0",
+      "username": "takeo@gmail.com",
+      "password": "fran"
+    },
+    {
+      "id": "db24",
+      "username": "morgado@gmail.com",
+      "password": "hola1234"
+    },
+    {
+      "id": "22e2",
+      "username": "gines@gmail.com",
+      "password": "hola123456"
+    }
   ],
-  "profile": { "name": "typicode" }
+  "reviews": [
+    {
+      "nombre": "Fran Parra",
+      "estrellas": 4,
+      "review": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem quisquam sapiente obcaecati odio hic quos eum, aperiam cum architecto animi laudantium et maiores dolorem veritatis, nihil rerum eos libero? Iusto!",
+      "foto": "https://www.redcenit.com/redcenit/wp-content/uploads/2023/09/Persona-Altamente-Sensible-PAS.jpg",
+      "id": "3737"
+    },
+    {
+      "nombre": "Juan Gomez ",
+      "estrellas": 2,
+      "review": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem quisquam sapiente obcaecati odio hic quos eum, aperiam cum architecto animi laudantium et maiores dolorem veritatis, nihil rerum eos libero? Iusto!",
+      "foto": "https://i.pinimg.com/originals/76/0c/c5/760cc57101a7b8128240b4e24ec52995.jpg",
+      "id": "26d9"
+    },
+    {
+      "nombre": "Marta Lopez",
+      "estrellas": 4,
+      "review": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem quisquam sapiente obcaecati odio hic quos eum, aperiam cum architecto animi laudantium et maiores dolorem veritatis, nihil rerum eos libero? Iusto!",
+      "id": "4828"
+    },
+    {
+      "id": "4cf7",
+      "nombre": "Neeko Supp",
+      "estrellas": 5,
+      "review": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem quisquam sapiente obcaecati odio hic quos eum, aperiam cum architecto animi laudantium et maiores dolorem veritatis, nihil rerum eos libero? Iusto!€"
+    },
+    {
+      "id": "f1cb",
+      "nombre": "Juan Francisco",
+      "estrellas": 4,
+      "review": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem quisquam sapiente obcaecati odio hic quos eum, aperiam cum architecto animi laudantium et maiores dolorem veritatis, nihil rerum eos libero? Iusto!€€"
+    },
+    {
+      "id": "46ca",
+      "nombre": "Francisco Parra",
+      "estrellas": 3,
+      "review": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem quisquam sapienteLorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem quisquam sapiente"
+    },
+    {
+      "id": "8201",
+      "nombre": "Morgado",
+      "estrellas": 5,
+      "review": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem quisquam sapiente obcaecati odio hic quos eum, aperiam cum architecto animi laudantium et"
+    },
+    {
+      "id": "4a64",
+      "nombre": "Juan Pamela",
+      "estrellas": 3,
+      "review": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem quisquam sapiente"
+    },
+    {
+      "id": "f060",
+      "nombre": "Ataúd Lilia Penta",
+      "estrellas": 1,
+      "review": "sfs"
+    }
+  ]
 }
